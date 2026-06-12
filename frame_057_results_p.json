@@ -1,0 +1,154 @@
+{
+  "frame": 57,
+  "keypoints_2d_mapping": [
+    {
+      "keypoint_idx": 0, "keypoint_name": "nose", "middle_panel_pixel": [163.0, 369.0],
+      "world_3d": [12.3, 564.9, -14.5]
+    },
+    {
+      "keypoint_idx": 1, "keypoint_name": "left_eye", "middle_panel_pixel": [165.0, 366.0],
+      "world_3d": [13.9, 564.9, -12.1]
+    },
+    {
+      "keypoint_idx": 2, "keypoint_name": "right_eye", "middle_panel_pixel": [157.1, 364.1],
+      "world_3d": [8.3, 571.0, -10.5]
+    },
+    {
+      "keypoint_idx": 3, "keypoint_name": "left_ear", "middle_panel_pixel": [168.0, 369.0],
+      "world_3d": [16.3, 564.9, -14.5]
+    },
+    {
+      "keypoint_idx": 4, "keypoint_name": "right_ear", "middle_panel_pixel": [148.5, 367.3],
+      "world_3d": [0.5, 562.5, -13.3]
+    },
+    {
+      "keypoint_idx": 5, "keypoint_name": "left_shoulder", "middle_panel_pixel": [173.0, 390.0],
+      "world_3d": [20.1, 564.2, -31.4]
+    },
+    {
+      "keypoint_idx": 6, "keypoint_name": "right_shoulder", "middle_panel_pixel": [139.0, 387.0],
+      "world_3d": [-5.6, 583.6, -29.2]
+    },
+    {
+      "keypoint_idx": 7, "keypoint_name": "left_elbow", "middle_panel_pixel": [178.4, 412.9],
+      "world_3d": [26.2, 578.0, -50.7]
+    },
+    {
+      "keypoint_idx": 8, "keypoint_name": "right_elbow", "middle_panel_pixel": [132.0, 414.0],
+      "world_3d": [-12.2, 574.8, -51.0]
+    },
+    {
+      "keypoint_idx": 9, "keypoint_name": "left_wrist", "middle_panel_pixel": [179.2, 437.2],
+      "world_3d": [27.0, 580.0, -71.2]
+    },
+    {
+      "keypoint_idx": 10, "keypoint_name": "right_wrist", "middle_panel_pixel": [101.6, 454.1],
+      "world_3d": [-37.1, 566.4, -82.2]
+    },
+    {
+      "keypoint_idx": 11, "keypoint_name": "left_hip", "middle_panel_pixel": [167.1, 442.4],
+      "world_3d": [16.3, 576.0, -75.0]
+    },
+    {
+      "keypoint_idx": 12, "keypoint_name": "right_hip", "middle_panel_pixel": [144.3, 441.2],
+      "world_3d": [-3.0, 568.0, -72.8]
+    },
+    {
+      "keypoint_idx": 13, "keypoint_name": "left_knee", "middle_panel_pixel": [163.1, 479.9],
+      "world_3d": [13.2, 580.0, -106.9]
+    },
+    {
+      "keypoint_idx": 14, "keypoint_name": "right_knee", "middle_panel_pixel": [141.1, 475.0],
+      "world_3d": [-5.5, 574.0, -101.2]
+    },
+    {
+      "keypoint_idx": 15, "keypoint_name": "left_ankle", "middle_panel_pixel": [188.7, 519.1],
+      "world_3d": [36.4, 592.7, -143.9]
+    },
+    {
+      "keypoint_idx": 16, "keypoint_name": "right_ankle", "middle_panel_pixel": [134.8, 505.4],
+      "world_3d": [-10.8, 576.0, -126.6]
+    },
+    {
+      "keypoint_idx": 17, "keypoint_name": "head_center", "middle_panel_pixel": [130.9, 370.1],
+      "world_3d": [-13.0, 568.7, -15.4]
+    },
+    {
+      "keypoint_idx": 18, "keypoint_name": "shoulder_center", "middle_panel_pixel": [131.1, 386.5],
+      "world_3d": [-13.0, 568.5, -28.5]
+    },
+    {
+      "keypoint_idx": 19, "keypoint_name": "pelvis_center", "middle_panel_pixel": [131.3, 445.4],
+      "world_3d": [-13.5, 568.5, -76.0]
+    },
+    {
+      "keypoint_idx": 20, "keypoint_name": "spine_mid", "middle_panel_pixel": [130.9, 416.1],
+      "world_3d": [-13.5, 568.5, -52.3]
+    }
+  ],
+  "keypoints_3d_mapping": [
+    {
+      "keypoint_idx": 0, "keypoint_name": "nose", "position_3d": [12.3, 564.9, -14.5]
+    },
+    {
+      "keypoint_idx": 1, "keypoint_name": "left_eye", "position_3d": [13.9, 564.9, -12.1]
+    },
+    {
+      "keypoint_idx": 2, "keypoint_name": "right_eye", "position_3d": [8.3, 571.0, -10.5]
+    },
+    {
+      "keypoint_idx": 3, "keypoint_name": "left_ear", "position_3d": [16.3, 564.9, -14.5]
+    },
+    {
+      "keypoint_idx": 4, "keypoint_name": "right_ear", "position_3d": [0.5, 562.5, -13.3]
+    },
+    {
+      "keypoint_idx": 5, "keypoint_name": "left_shoulder", "position_3d": [20.1, 564.2, -31.4]
+    },
+    {
+      "keypoint_idx": 6, "keypoint_name": "right_shoulder", "position_3d": [-5.6, 583.6, -29.2]
+    },
+    {
+      "keypoint_idx": 7, "keypoint_name": "left_elbow", "position_3d": [26.2, 578.0, -50.7]
+    },
+    {
+      "keypoint_idx": 8, "keypoint_name": "right_elbow", "position_3d": [-12.2, 574.8, -51.0]
+    },
+    {
+      "keypoint_idx": 9, "keypoint_name": "left_wrist", "position_3d": [27.0, 580.0, -71.2]
+    },
+    {
+      "keypoint_idx": 10, "keypoint_name": "right_wrist", "position_3d": [-37.1, 566.4, -82.2]
+    },
+    {
+      "keypoint_idx": 11, "keypoint_name": "left_hip", "position_3d": [16.3, 576.0, -75.0]
+    },
+    {
+      "keypoint_idx": 12, "keypoint_name": "right_hip", "position_3d": [-3.0, 568.0, -72.8]
+    },
+    {
+      "keypoint_idx": 13, "keypoint_name": "left_knee", "position_3d": [13.2, 580.0, -106.9]
+    },
+    {
+      "keypoint_idx": 14, "keypoint_name": "right_knee", "position_3d": [-5.5, 574.0, -101.2]
+    },
+    {
+      "keypoint_idx": 15, "keypoint_name": "left_ankle", "position_3d": [36.4, 592.7, -143.9]
+    },
+    {
+      "keypoint_idx": 16, "keypoint_name": "right_ankle", "position_3d": [-10.8, 576.0, -126.6]
+    },
+    {
+      "keypoint_idx": 17, "keypoint_name": "head_center", "position_3d": [-13.0, 568.7, -15.4]
+    },
+    {
+      "keypoint_idx": 18, "keypoint_name": "shoulder_center", "position_3d": [-13.0, 568.5, -28.5]
+    },
+    {
+      "keypoint_idx": 19, "keypoint_name": "pelvis_center", "position_3d": [-13.5, 568.5, -76.0]
+    },
+    {
+      "keypoint_idx": 20, "keypoint_name": "spine_mid", "position_3d": [-13.5, 568.5, -52.3]
+    }
+  ]
+}
