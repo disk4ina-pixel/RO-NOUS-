@@ -1,0 +1,332 @@
+{
+  "total_frames": 109, "frames_with_voxel_data": 109, "voxel_grids_stored": 109,
+  "frames": {
+    "1": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "2": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "3": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "4": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "5": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "6": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "7": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "8": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "9": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "10": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "11": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "12": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "13": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "14": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "15": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "16": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "17": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "18": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "19": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "20": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "21": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "22": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "23": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "24": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "25": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "26": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "27": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "28": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "29": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "30": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "31": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "32": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "33": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "34": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "35": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "36": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "37": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "38": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "39": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "40": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "41": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "42": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "43": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "44": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "45": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "46": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "47": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "48": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "49": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "50": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "51": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "52": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "53": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "54": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "55": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "56": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "57": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "58": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "59": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "60": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "61": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "62": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "63": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "64": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "65": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "66": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "67": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "68": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "69": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "70": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "71": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "72": {
+      "clusters": 3, "voxel_metadata": true
+    },
+    "73": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "74": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "75": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "76": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "77": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "78": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "79": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "80": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "81": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "82": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "83": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "84": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "85": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "86": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "87": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "88": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "89": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "90": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "91": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "92": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "93": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "94": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "95": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "96": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "97": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "98": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "99": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "100": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "101": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "102": {
+      "clusters": 2, "voxel_metadata": true
+    },
+    "103": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "104": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "105": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "106": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "107": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "108": {
+      "clusters": 1, "voxel_metadata": true
+    },
+    "109": {
+      "clusters": 1, "voxel_metadata": true
+    }
+  }
+}
